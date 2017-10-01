@@ -1,0 +1,22 @@
+.jumbotron
+{
+	background-image: url('../Images/homebg.jpg');
+	color:black;
+	background-attachment:fixed;
+	min-height:570px;
+	margin-top:0px;
+	margin-bottom:8px;
+        background-repeat: no-repeat;
+        
+}
+.jumbotron h1{
+    color: blue;
+    text-align: center;
+}
+.jumbotron h2{
+    color: blue;
+    text-align: center;
+    text-justify:auto;
+    text-wrap: inherit;
+    position: relative;
+}

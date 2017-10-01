@@ -1,0 +1,20 @@
+.wrapperBg {
+    background: url(../images/front/wrapper_bg.png?v=2) repeat-y left top;
+    background-image: url(../images/front/wrapper_bg.png?v=2);
+    background-position-x: left;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+.websiteWrapper {
+    width: 980px;
+    margin: 40px auto 0;
+}
+.clearfix {
+    zoom: 1;
+}

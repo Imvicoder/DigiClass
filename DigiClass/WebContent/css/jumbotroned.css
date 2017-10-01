@@ -1,0 +1,21 @@
+.jumbotron
+{
+	
+	color: green;
+        text-align: justify;
+	background-color:greenyellow;
+	background-attachment:fixed;
+	min-height:570px;
+	margin-top:0px;
+	margin-bottom:8px;
+        background-repeat: no-repeat;
+        
+}
+
+.jumbotron h4{
+    
+    text-align: justify;
+    text-justify:auto;
+    text-wrap: inherit;
+    position: fixed;
+}
