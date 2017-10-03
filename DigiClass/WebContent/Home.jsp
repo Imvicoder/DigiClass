@@ -38,7 +38,7 @@
                                         <h4 class="modal-title">Login to Digital Class</h4>
                                     </div>
                                     <div class="modal-body">
-                                        <form>
+                                        <form action="LoginSystem" method="post">
 
                                             <div class="form-group">
                                                 <label for="email">Email:</label>

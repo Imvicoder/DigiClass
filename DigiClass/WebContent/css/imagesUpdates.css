@@ -1,0 +1,8 @@
+.imageUpdatesSet{
+border-radius: 50%;
+content:url('../Images/update.jpg');
+}
+.imageAssignmentSet{
+	border-radius: 50%;
+	content:url('../Images/assignment.jpg');
+}

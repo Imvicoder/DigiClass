@@ -1,8 +1,14 @@
+public class Student {
 
-public class Faculty {
+    private String AccessCode,FirstName, LastName, Email, Sex, Password,userRole;
 
-    private String FirstName, LastName, Email, Sex, Password,userRole;
+    public String getAccessCode() {
+        return AccessCode;
+    }
 
+    public void setAccessCode(String accesscode) {
+        this.AccessCode = accesscode;
+    }
     public String getFirstName() {
         return FirstName;
     }
@@ -49,3 +55,4 @@ public class Faculty {
     	return userRole;
     }
 }
+

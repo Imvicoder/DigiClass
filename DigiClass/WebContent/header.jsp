@@ -21,7 +21,7 @@
 	<nav class="navbar navbar-inverse">
 		<div class="container-fluid">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="#">DigClass</a>
+				<a class="navbar-brand" href="./Home.jsp">DigClass</a>
 			</div>
 			<ul class="nav navbar-nav">
 				<li class="active"><a href="Courses.jsp">Courses</a></li>
@@ -29,7 +29,7 @@
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 
-				<li class="active"><a href="#">Logout</a></li>
+				<li class="active"><a href="Logout">Logout</a></li>
 			</ul>
 		</div>
 

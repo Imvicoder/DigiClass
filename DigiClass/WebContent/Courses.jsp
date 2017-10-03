@@ -22,7 +22,7 @@
 												Course</h4>
 										</div>
 										<div class="modal-body">
-											<form id="coursecreate" action="MyCourses.jsp" method="post">
+											<form id="coursecreate" action="CourseCreation" method="post">
 
 												<label for="course name">Course Name:</label> <input
 													type="text" class="form-control" name="coname"
@@ -34,7 +34,7 @@
 												<div class="form-check">
 													<label for="membership">Membership Approval:</label>
 													<div class="checkbox">
-														<label><input type="checkbox" value="">Membership
+														<label><input type="checkbox"name="ma" value="yes">Membership
 															Approval ?</label>
 													</div>
 
